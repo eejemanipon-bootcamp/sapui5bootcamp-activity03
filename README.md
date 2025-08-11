@@ -20,3 +20,8 @@ Code:  https://github.com/eejemanipon-bootcamp/sapui5bootcamp-activity03/blob/ma
 Code:  https://github.com/eejemanipon-bootcamp/sapui5bootcamp-activity03/blob/main/exercise-04.js
 ### Output  
 ![Alt text](resources/exercise-04-output.png)
+
+## Exercise 5
+Code:  https://github.com/eejemanipon-bootcamp/sapui5bootcamp-activity03/blob/main/exercise-05.js
+### Output  
+![Alt text](resources/exercise-05-output.png)
